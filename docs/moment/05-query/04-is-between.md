@@ -8,7 +8,7 @@ signature: |
 ---
 
 
-Check if a moment is between two other moments, optionally looking at unit
+Check if a moment is between two other moments (non-inclusive), optionally looking at unit
 scale (minutes, hours, days, etc).
 
 ```javascript
